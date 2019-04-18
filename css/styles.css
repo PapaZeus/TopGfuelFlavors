@@ -21,16 +21,9 @@
 #center1 {
   text-align: center;
   color: black;
+  /* text-shadow: 2px 2px 3px black, 0px 0px 1px black, 0px 0px 0px black; */
 }
-
 
 body {
   background-color: #9e03ff;
-}
-
-#rcorners {
-  border-radius: 30px;
-  background: white;
-  width: auto;
-  height: auto;
 }
