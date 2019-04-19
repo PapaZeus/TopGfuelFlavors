@@ -1,9 +1,11 @@
 #title {
   text-align: center;
-  font-family: cursive;
+  font-family: arial black;
   color: black;
   text-shadow: 2px 2px 3px white, 0 0 1em black, 0 0 0.2em white;
-  background-image: url("../img/banner.png");
+  background-image: url("../img/banner1.webp");
+  /* background-repeat: no-repeat;
+  background-size: cover; */
 }
 
 .thumbnail {
@@ -14,6 +16,7 @@
 
 #center {
   text-align: center;
+  font-family: arial black;
   color: white;
   text-shadow: 2px 2px 3px gray, 0px 0px 1px black, 0px 0px 0px gray;
 }
