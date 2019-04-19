@@ -14,7 +14,7 @@
 #center {
   text-align: center;
   color: white;
-  /* text-shadow: 2px 2px 3px black, 0px 0px 1px black, 0px 0px 0px black; */
+  text-shadow: 2px 2px 3px gray, 0px 0px 1px black, 0px 0px 0px gray;
 }
 
 #center1 {
@@ -25,4 +25,9 @@
 
 body {
   background-color:  	#838996;
+}
+
+.well {
+  padding: 18px;
+  margin: 17px;
 }
